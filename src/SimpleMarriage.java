@@ -9,7 +9,6 @@
     partners. If there are no such people, all the marriages are "stable".
 
  */
-package problems;
 
 import java.util.ArrayList;
 import java.util.Arrays;
